@@ -1,0 +1,12 @@
+needle, a
+visitor, b
+return, c
+vast, d
+harsh, a
+longing, c
+useless, d
+wash, b
+thread, b
+force, c
+night, c
+cheese, a
